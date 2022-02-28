@@ -1,5 +1,5 @@
 # mysocialnetwork
-# This is a fully working social network website with many functionnalities
+This is a fully working social network website with many functionnalities
 -Authentification
 -Editing profile (Profile Picture / Bio / Personal Information )
 -Upload Posts
