@@ -12,6 +12,7 @@ This is a fully working social network website with many functionnalities :</br>
 ![Image](img/Capture.PNG)
 ![Image](img/Capture1.PNG)
 ![Image](img/Capture2.PNG)
+![Image](img/Capture3.PNG)
 
 </br>
 You must import network.sql to your database for the project to work
