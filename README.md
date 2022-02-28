@@ -5,3 +5,8 @@ This is a fully working social network website with many functionnalities :</br>
 -Upload Posts</br>
 -Interacting with posts (Like/Comment)</br>
 -Sending Friend Requests</br>
+-Search for people by their username or posts </br>
+-Choose who can look at your posts</br>
+
+</br>
+You must import network.sql to your database for the project to work
